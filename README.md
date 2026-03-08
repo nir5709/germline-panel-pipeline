@@ -96,6 +96,10 @@ Sample IDs are derived from the FASTQ filenames.
 
 For each sample, the workflow creates:
 
+### Cohort Summary
+
+Example outputs are shown in `docs/example_output.md`.
+
 ### Processed reads and alignment
 - trimmed FASTQ files
 - sorted BAM
