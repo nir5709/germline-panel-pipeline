@@ -1,0 +1,6 @@
+# Example FASTQ naming pattern expected by the pipeline
+
+SAMPLE001_R1_001.fastq.gz
+SAMPLE001_R2_001.fastq.gz
+SAMPLE002_R1_001.fastq.gz
+SAMPLE002_R2_001.fastq.gz

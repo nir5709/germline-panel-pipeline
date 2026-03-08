@@ -1,0 +1,11 @@
+# Replace placeholders with the validated versions used in your environment.
+
+fastp                  : <fill_here>
+bwa                    : <fill_here>
+samtools               : <fill_here>
+gatk                   : <fill_here>
+bcftools               : <fill_here>
+picard                 : <fill_here>
+mosdepth               : <fill_here>
+bedtools               : <fill_here>
+reference_build        : hg19 / GRCh37
