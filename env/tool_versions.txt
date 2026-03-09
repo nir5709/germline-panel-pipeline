@@ -1,11 +1,12 @@
-# Replace placeholders with the validated versions used in your environment.
+# Tool versions used during development / validation
 
-fastp                  : <fill_here>
-bwa                    : <fill_here>
-samtools               : <fill_here>
-gatk                   : <fill_here>
-bcftools               : <fill_here>
-picard                 : <fill_here>
-mosdepth               : <fill_here>
-bedtools               : <fill_here>
+fastp                  : 0.24.0
+bwa                    : 0.7.18
+samtools               : 1.20
+gatk                   : 4.5.0.0
+bcftools               : 1.20
+picard                 : 3.1.1
+mosdepth               : 0.3.8
+bedtools               : 2.31.1
+
 reference_build        : hg19 / GRCh37
